@@ -14,7 +14,7 @@ echo view('_general/header');?>
 
             <!-- Text -->
             <div class="w-100 text-white px-5">
-                <h1 class="display-2 font-weight-bolder mb-4">Pepkor<br> Installations</h1>
+                <h1 class="display-2 font-weight-bolder mb-4">Aquainstall</h1>
                 <div class="text-large font-weight-light">
                   Admin Portal
                 </div>
@@ -35,7 +35,7 @@ echo view('_general/header');?>
                     <div class="d-flex justify-content-center align-items-center">
                       <div class="">
                         <div class="w-100 position-relative" style="padding-bottom: 24%">
-                            <img src="/assets/img/pep-logo.png" id = "login-logo"/>
+                            <img src="/assets/img/aquainstall.png" id = "login-logo"/>
                         </div>
                       </div>
                     </div>
